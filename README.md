@@ -1,1 +1,1 @@
-# Techlabs
+# First, it was difficult to find the right dataset. Then after I understood the data, I started to clean the dataset and make some visualization and find some correlation between the data. After I applied the necessary data for 3 machine learning model and selected one of them based on the accuracy of one of them.
