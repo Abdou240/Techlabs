@@ -1,4 +1,4 @@
-## Heart Disease Classifier
+# Heart Disease Classifier
 
 ## Project Overview
 
